@@ -5,15 +5,3 @@ layout: home
 <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
 
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
-
-<!-- modify this form HTML and place wherever you want your form -->
-<div id="contact">
-        <h2>Did you like what you read? Subscribe!</h2>
-        <div id="contact-form">
-                <form action="https://formspree.io/f/mpwaejnq" method="POST">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <button type="submit">Submit</button>
-            </form>
-        </div>
-    </div>
