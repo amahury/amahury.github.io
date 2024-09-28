@@ -16,7 +16,7 @@ Since 2023 I started using my Twitter/X account (@amahury0) as a communication c
 -  Opinion
 <br/>
 <p align="justify">
-This section is dedicated to the analysis of any material or event related to complex systems. Some of my writings will be introductory, that as a miscellany seek to introduce the curious to the world of complex systems. Others of my essays will be more specialized, seeking to generate constructive criticism that will lead us to an objective and dialectical view of science. Although in principle I would also like to recommend books or articles related to complex systems, I will try to focus my reviews on interesting material that may not be so well known, giving visibility to high quality, underground content.
+This section is dedicated to the analysis of any material or event related to complex systems. Some of my writings will be introductory, that as a miscellany seek to introduce curious minds to the world of complex systems. Others of my essays will be more specialized, seeking to generate constructive criticism that will lead us to an objective and dialectical view of science. Although in principle I would also like to recommend recent books or articles related to complex systems, I will try to focus my reviews on interesting material that may be old or not so well known, giving visibility to high quality underground content.
 </p>
 <br/>
 -  Events
@@ -34,7 +34,7 @@ This column has two objectives. The first is that young researchers can use Comp
 -  Glossary
 <br/>
 <p align="justify">
-Complexity Cat not only seeks to disseminate everything related to complex systems, but also to be an educational medium. To that end, this section is dedicated to compile definitions, models, tools and theories related to complexity science. Being an interdisciplinary field, there are many concepts in the literature that can be ambiguous, redundant or similar to each other (even though they are not related as such). This column seeks to contrast these concepts with each other, following a chronological order and bringing with it historical notes that may help to better understand the context in which these frameworks were developed. 
+Complexity Cat not only aims to broadcast everything related to complex systems, but also to be an educational medium. To that end, this section is dedicated to compile definitions, models, tools and theories related to complexity science. Being an interdisciplinary field, there are many conceptualizations in the literature that can be ambiguous, redundant or similar to each other (even though they are not related as such). This column seeks to contrast these concepts with each other, following a chronological order and bringing with it historical notes that may help to better understand the context in which such abstractions were developed. 
 </p>
 <br/>
 -  Fiction
@@ -44,5 +44,5 @@ Unlike other excellent digital science magazines such as Quanta Magazine, Aeon a
 </p>
 <br/><br/>
 <p align="justify">
-Complexity Cat is an initiative created and promoted by Amahury J. López-Díaz, a Mexican physicist who wanted to develop a communication channel where young researchers interested in complex systems (and other similar interdisciplinary fields) could keep abreast of the latest news related to them. Currently there are four other people (Ilich S., Daria G., Carlos T. and Mario K.) helping the main creator to review his writings and to develop infographics to share in social media. If possible, the final form of Complexity Cat will be an independent, self-managed, peer-reviewed, open-access, free-publication journal, in which reviewers are paid for their valuable work.
+Complexity Cat is an initiative created and promoted by Amahury J. L. Díaz, a Mexican physicist who wanted to develop a communication channel where young researchers interested in complex systems (and other similar interdisciplinary fields) could keep abreast of the latest news related to them. Currently there are four other people (Ilich Silva, Daria Gomez, Carlos Tapia and Mario Kirwant) helping the main creator to review his writings and to develop infographics to share in social media. If possible, the final form of Complexity Cat will be an independent, self-managed, peer-reviewed, open-access, free-publication journal, in which reviewers are paid for their valuable work. We are open to collaborations, if you are interested in contributing to our project in any format, do not hesitate to contact us.
 </p>
