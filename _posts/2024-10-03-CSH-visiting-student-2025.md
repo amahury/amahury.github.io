@@ -62,10 +62,6 @@ Outline the ongoing or proposed research project you would like to undertake at 
 - (1) Brief letter of support from the thesis supervisor or study director or program chair/coordinator. This is not a letter of recommendation but rather should simply specify that, if accepted, the student would be eligible to undertake a research visit at CSH during their studies.
 - (2) <ins>For Masters/Diploma students:</ins> Unofficial transcript or list of relevant coursework
 
-### ABOUT US
-
-The Complexity Science Hub (CSH) is Europe’s research center for the study of complex systems. We derive meaning from data from a range of disciplines – economics, medicine, ecology, and the social sciences – as a basis for actionable solutions for a better world. Established in 2015, we have grown to over 70 researchers, driven by the increasing demand to gain a genuine understanding of the networks that underlie society, from healthcare to supply chains. Through our complexity science approaches linking physics, mathematics, and computational modeling with data and network science, we develop the capacity to address today’s and tomorrow’s challenges.
-
 Source: https://csh.ac.at/engage/jobs/
 
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
