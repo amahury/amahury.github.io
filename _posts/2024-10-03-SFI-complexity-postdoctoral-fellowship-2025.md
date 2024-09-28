@@ -62,3 +62,5 @@ Invitations to interview at SFI in January will be sent to successful candidates
 **PLEASE NOTE**: If you don't already have a SURVEY MONKEY APPLY account you will need to **REGISTER** for one before you apply.
 
 Source: https://apply-sfi.smapply.org/prog/complexity_postdoctoral_fellowship_/
+
+![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
