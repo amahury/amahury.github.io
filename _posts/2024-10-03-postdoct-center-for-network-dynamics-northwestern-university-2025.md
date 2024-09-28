@@ -26,3 +26,5 @@ To apply, candidates should email a CV and a brief description of how their rese
 Northwestern University is an Affirmative Action/Equal Opportunity Employer. Applications from women and individuals from underrepresented groups are encouraged.
 
 Source: https://netscisociety.net/jobs/f44da5d1-615f-4233-b380-db9d7eb02e80
+
+![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
