@@ -24,3 +24,7 @@ The fee for the Digital Methods Winter School 2024 is EUR 695, and upon completi
 Payment information is sent along with the acceptance notification. Students at the University of Amsterdam do not pay fees. Members of Dutch Research Schools and alumni of the University of Amsterdam pay half fees. There are no other scholarships or discounts.
 
 The Winter School is self-catered. The venue is in the center of Amsterdam with abundant coffee houses and lunch places.
+
+Source and more details: https://www.digitalmethods.net/Dmi/WinterSchool2025
+
+![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
