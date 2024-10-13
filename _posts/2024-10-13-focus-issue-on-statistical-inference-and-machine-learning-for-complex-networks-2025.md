@@ -41,4 +41,6 @@ The target deadline for submissions is 31 May 2025 though we can be flexible whe
 ### Peer review
 All focus issue articles will be peer reviewed in the same manner and to the same high standard as regular issue articles, with the peer review overseen and administered by our in-house journal editorial team. Find out more about peer review at IOP Publishing.
 
+Source and more details: https://iopscience.iop.org/collections/jpcomplex-240806-630
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
