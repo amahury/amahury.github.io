@@ -6,7 +6,7 @@ tags: [review, book]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: Roger Lewin is a British prize-winning science writer and author of 20 books. My favorite book of his repertoire is Complexity, a warm (and not so well known) introduction to the world of complex systems.
 alpez:
