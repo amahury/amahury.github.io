@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: For me the best recent perspective article on theories of life. A must read for any individual interested in the origin of life, artificial life and theoretical biology in general.
 alpez:
