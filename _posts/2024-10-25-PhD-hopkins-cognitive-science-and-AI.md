@@ -1,5 +1,5 @@
 ---
-title: "Opportunity as PhD or postdoc on cognitive science and IA at Johns Hopkins University"
+title: "Opportunity as PhD or postdoc on cognitive science and AI at Johns Hopkins University"
 date: 2024-10-25 00:00:00 -0400
 categories: [Community]
 tags: [job, PhD, postdoc]
