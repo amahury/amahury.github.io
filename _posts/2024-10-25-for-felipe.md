@@ -16,7 +16,7 @@ alpez:
 _(Original)_
 
 $$
-\begin{align}
+\begin{align*}
 &\text{Allá por 1945 Erwin Schrödinger se cuestionaba,}\\
 &\text{“¿Cuál es el secreto de la vida y cómo funcionaba?”}\\
 &\text{Si bien la energía de los nutrientes se necesitaba,}\\
@@ -93,6 +93,6 @@ $$
 &\text{Your departure reminded me the importance of death,}\\
 &\text{But be sure of one thing: your energy is conserved.}\\
 &\\
-\end{align}
+\end{align*}
 $$
 
