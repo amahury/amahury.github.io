@@ -51,13 +51,13 @@ $$
 &\text{Todos tus estudiantes tu recuerdo y conocimiento reservan,}\\
 &\text{Tu partida me llenó de tristeza y eso me enerva,}\\
 &\text{Pero de algo puedes estar seguro: tu energía se conserva.}
-\end{align}
+\end{align*}
 $$
 
 _(Translation)_
 
 $$
-\begin{align}
+\begin{align*}
 &\text{Back in 1945 Schrödinger was wondering,}\\
 &\text{“What is life, what is underneath?”}\\
 &\text{While nutrient energy was really needed,}\\
