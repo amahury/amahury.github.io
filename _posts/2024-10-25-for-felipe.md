@@ -95,3 +95,5 @@ $$
 &\\
 \end{align*}
 $$
+
+![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
