@@ -1,5 +1,5 @@
 ---
-title: "NYU Infant Consciousness Conference"
+title: "Call for Contributions: NYU Infant Consciousness Conference 2025"
 date: 2024-10-28 00:00:00 -0400
 categories: [Events]
 tags: [conference]
