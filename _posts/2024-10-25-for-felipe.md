@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: Four years ago Luis Felipe Del Castillo, who was my thermodynamics professor at the time, passed away. In those days of mourning I wrote him a poem that was later published in the Revista Mexicana de Física. Here is the original and an accurate English translation of the poem.
 alpez:
