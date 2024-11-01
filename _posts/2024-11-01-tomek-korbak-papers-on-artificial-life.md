@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: false
+pin: true
 mermaid: true
 description: Although today Tomek Korbak is a Senior Research Scientist at the UK AI Safety Institute working on Language Models, during his short career he has written interesting pieces on Artificial Life, writings that are not so well known (neither well recognized) by the majority of researchers in such a field.
 alpez:
