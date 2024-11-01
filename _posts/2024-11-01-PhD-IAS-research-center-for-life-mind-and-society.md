@@ -1,5 +1,5 @@
 ---
-title: "PhD opportunity at the IAS-Research Center for Life, Mind, and Society at the University of the Basque Country (San Sebastián)"
+title: "PhD opportunity at the IAS-Research Center for Life, Mind, and Society at the University of the Basque Country (San Sebastian)"
 date: 2024-11-01 00:00:00 -0400
 categories: [Community]
 tags: [job, PhD]
@@ -7,7 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: Opportunity to join us at the IAS-Research Center for Life, Mind, and Society at the University of the Basque Country (San Sebastian) for a PhD studentship within the “Outagencies: Varieties of autonomous agency across living, humanimal, and technical systems” project: an interdisciplinary exploration of agency across philosophy, biology, AI, and social sciences. We welcome passionate candidates from any background aligned with our research themes, who bring strong motivation, English proficiency, and a robust academic profile.
+description: Opportunity to join us at the IAS-Research Center for Life, Mind, and Society at the University of the Basque Country (San Sebastian) for a PhD studentship within the “Outagencies -> Varieties of autonomous agency across living, humanimal, and technical systems” project -> an interdisciplinary exploration of agency across philosophy, biology, AI, and social sciences. We welcome passionate candidates from any background aligned with our research themes, who bring strong motivation, English proficiency, and a robust academic profile.
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
