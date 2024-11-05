@@ -1,6 +1,6 @@
 ---
 title: "Postdoc Position in Statistical Physics, Network Science & Nonlinear Dynamics at the University of Calgary"
-date: 2024-11-04 00:00:00 -0400
+date: 2024-11-05 00:00:00 -0400
 categories: [Community]
 tags: [job, postdoc]
 comments: false
