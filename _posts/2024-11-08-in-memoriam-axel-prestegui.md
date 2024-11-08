@@ -1,8 +1,8 @@
 ---
 title: "In memoriam, Axel Prestegui"
 date: 2024-11-08 00:00:00 -0400
-categories: [Opinion]
-tags: [review]
+categories: [Fiction]
+tags: [poetry]
 comments: true
 toc: true 
 math: true
