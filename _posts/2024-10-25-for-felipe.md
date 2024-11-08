@@ -2,7 +2,7 @@
 title: "For Felipe"
 date: 2024-10-25 00:00:00 -0400
 categories: [Fiction]
-tags: [review, paper]
+tags: [poetry]
 comments: true
 toc: true 
 math: true
