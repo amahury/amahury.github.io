@@ -1,6 +1,6 @@
 ---
 title: "Postdoctoral Research Associate - Social Urban Networks"
-date: 2024-11-05 00:00:00 -0400
+date: 2024-11-22 00:00:00 -0400
 categories: [Community]
 tags: [job, postdoc]
 comments: false
