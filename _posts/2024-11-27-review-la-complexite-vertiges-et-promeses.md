@@ -8,7 +8,7 @@ toc: true
 math: true
 pin: true
 mermaid: true
-description: 
+description: An excellent compilation of interviews with some of the great minds that have shaped complex systems science (and its various holistic approaches) in the late twentieth century and early present. 
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
