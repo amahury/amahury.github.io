@@ -6,7 +6,6 @@ tags: [poetry]
 comments: true
 toc: true 
 math: true
-pin: false
 mermaid: true
 description: A little over a month ago our friend Axel Prestegui passed away. Behind him was a great human being and a talented mathematician. For this reason and more, today we have decided to honor him by translating a piece of writing that one of his best friends recited during his funeral tribute.
 pao:
