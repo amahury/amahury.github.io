@@ -2,12 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
+  url:  'https://github.com/amahury'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url:  'https://x.com/amahury0'
 
 - name: bluesky
   icon: "fab fa-bluesky"
+  url:  'https://bsky.app/profile/amahury.bsky.social'
 
 - type: email
   icon: "fas fa-envelope"
