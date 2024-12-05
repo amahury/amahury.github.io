@@ -8,7 +8,7 @@ platforms:
 
   - type: bluesky
     icon: "fab fa-bluesky"
-    link: "https://bsky.app/intent/compose?text=TITLE&url=URL"
+    link: "https://bsky.app/intent/compose?url=URL&text=TITLE"
 
   - type: Facebook
     icon: "fab fa-facebook-square"
