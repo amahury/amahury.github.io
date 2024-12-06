@@ -6,7 +6,7 @@ tags: [review, book]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: An excellent compilation of interviews with some of the great minds that have shaped complex systems science (and its various holistic approaches) in the late twentieth century and early present. 
 alpez:
