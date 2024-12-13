@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: In this 1995 article we can find some of the expectations that the Gibsonian narrative had for the study of cognition in the current century. I find some of the ideas raised in this article fascinating and worth discussing. 
 alpez:
