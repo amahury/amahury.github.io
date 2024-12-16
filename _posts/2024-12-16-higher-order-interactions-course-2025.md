@@ -49,4 +49,6 @@ Requests for a reduced fee should be sent as soon as possible and no later than 
 
 The acceptance will be communicated before June 10, 2025.
 
+Details and more info: [https://sites.google.com/view/ho2025erice/home?authuser=0](https://sites.google.com/view/ho2025erice/home?authuser=0)
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
