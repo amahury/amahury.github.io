@@ -6,7 +6,7 @@ tags: [review, book]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: El origen de la vida by Antonio Lazcano is part of the collection El Universo de la Biología. This is an excellent introduction to the study of the origin of life, by one of Mexico's most emblematic biologists.
 alpez:
