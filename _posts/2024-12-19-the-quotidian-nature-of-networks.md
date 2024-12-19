@@ -7,7 +7,6 @@ comments: true
 toc: true 
 math: true
 pin: true
-mermaid: true
 description: After half a month visiting Mexico I couldn't help but get nostalgic and reminisce about my days as an undergraduate student. 
 alpez:
   name: Amahury J. L. Diaz
