@@ -1,5 +1,5 @@
 ---
-title: "Reflections on the Irruption, Calculation and Anticipation Workshop"
+title: "Reflections on the Irruption, Computation and Anticipation Workshop"
 date: 2024-12-27 00:00:00 -0400
 categories: [Opinion]
 tags: [review]
