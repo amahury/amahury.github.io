@@ -62,4 +62,6 @@ Applicants should submit:
 - A statement that describes your scholarly interests in complex systems and your goals in attending Summer School (maximum two pages).
 - Two letters of recommendation: one from a supervisor and one from a collaborator.
 
+Source and more information: [https://santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school](https://santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school)
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
