@@ -34,7 +34,7 @@ This column has two objectives. The first is that young researchers can use Comp
 -  Interviews
 <br/>
 <p align="justify">
-Esta columna esta dedicada a la publicacion de Q&As con investigadores que tienen una carrera consolidadada. The interview will revolve around a recent and relevant paper with the researcher as first author. The idea is to use such interviews at the same time to promote their lines of research and to inspire researchers who are just starting out. 
+This column is dedicated to the publication of Q&As with researchers who have a consolidated career. The interview will revolve around a recent and relevant paper with the researcher as first author. The idea is to use such interviews at the same time to promote their lines of research and to inspire researchers who are just starting out. 
 </p>
 <br/>
 -  Fiction
