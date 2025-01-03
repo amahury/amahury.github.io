@@ -16,7 +16,7 @@ Since 2023 I started using my Twitter/X account (@amahury0) as a communication c
 -  Opinion
 <br/>
 <p align="justify">
-This section is dedicated to the analysis of any material or event related to complex systems. Some of my writings will be introductory, that as a miscellany seek to introduce curious minds to the world of complex systems. Others of my essays will be more specialized, seeking to generate constructive criticism that will lead us to an objective and dialectical view of science. Although in principle I would also like to recommend recent books or articles related to complex systems, I will try to focus my reviews on interesting material that may be old or not so well known, giving visibility to high quality underground content.
+This section is dedicated to the analysis of any material or event related to complex systems. Some of my writings will be introductory, as a miscellany that aims to introduce curious minds to the world of complex systems. Others of my essays will be more specialized, seeking to generate constructive criticism that will lead us to an objective and dialectical view of science. Although in principle I would also like to recommend recent books or articles related to complex systems, I will try to focus my reviews on interesting material that may be old or not so well known, giving visibility to high quality underground content.
 </p>
 <br/>
 -  Events
@@ -28,13 +28,13 @@ This column seeks to passively share information about conferences, summer schoo
 -  Community
 <br/>
 <p align="justify">
-This column has two objectives. The first is that young researchers can use Complexity Cat as a reference for their job search. Here we will publicize open positions as associate professor/lecturer, postdoctoral researcher opportunities, as well as doctoral and master's degree programs, all focused on complex systems or multidisciplinary science in general. The second goal of this column is to be a networking medium for young researchers. If you are looking for new collaborators, or just to let people know about your work, you can send us a short piece telling us about your background, skills and interests. We will be in charge of publishing this information and spreading it on our Twitter/X account (@amahury0). In the future I would also like to use this section to publish Q&As with researchers who have a consolidated career. The idea is to use such interviews at the same time to promote their lines of research and to inspire researchers who are just starting out.
+This column has two objectives. The first is that young researchers can use Complexity Cat as a reference for their job search. Here we will publicize open positions as associate professor/lecturer, postdoctoral researcher opportunities, as well as doctoral and master's degree programs, all focused on complex systems or multidisciplinary science in general. The second goal of this column is to be a networking medium for young researchers. If you are looking for new collaborators, or just to let people know about your work, you can send us a short piece telling us about your background, skills and interests. We will be in charge of publishing this information and spreading it on our Twitter/X account (@amahury0).
 </p>
 <br/>
--  Glossary
+-  Interviews
 <br/>
 <p align="justify">
-Complexity Cat not only aims to broadcast everything related to complex systems, but also to be an educational medium. To that end, this section is dedicated to compile definitions, models, tools and theories related to complexity science. Being an interdisciplinary field, there are many conceptualizations in the literature that can be ambiguous, redundant or similar to each other (even though they are not related as such). This column seeks to contrast these concepts with each other, following a chronological order and bringing with it historical notes that may help to better understand the context in which such abstractions were developed. 
+Esta columna esta dedicada a la publicacion de Q&As con investigadores que tienen una carrera consolidadada. The interview will revolve around a recent and relevant paper with the researcher as first author. The idea is to use such interviews at the same time to promote their lines of research and to inspire researchers who are just starting out. 
 </p>
 <br/>
 -  Fiction
