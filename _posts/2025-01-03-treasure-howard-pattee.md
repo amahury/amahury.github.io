@@ -1,6 +1,6 @@
 ---
 title: "A treasure that belonged to Howard Pattee"
-date: 2025-01-02 00:00:00 -0400
+date: 2025-01-03 00:00:00 -0400
 categories: [Opinion]
 tags: [review, book]
 comments: true
