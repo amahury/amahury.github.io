@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: Irruption Theory, a novel non-reductionist approach to study agency from an enactive perspective while avoiding dualism and explaining why life is noisy. What are the next steps for this framework? Is it possible to connect it with other narratives in the market? 
 alpez:
