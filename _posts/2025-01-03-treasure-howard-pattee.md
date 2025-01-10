@@ -6,7 +6,7 @@ tags: [review, book]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: Today, after almost six months, I can finally share with you that treasure I found last summer. 
 alpez:
