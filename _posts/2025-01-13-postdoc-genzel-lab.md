@@ -30,4 +30,6 @@ For further information contact Lisa Genzel l.genzel@donders.ru.nl.
 
 Applications are welcome anytime (open running application), we will close the call  31st of January 2025. Please send a CV (max 4 pages with publications) and a motivation letter (max 2 pages).
 
+Source and more information: [https://www.genzellab.com/we-are-hiring](https://www.genzellab.com/we-are-hiring)
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
