@@ -33,4 +33,7 @@ The closing date for this call is Friday, March 28, 2025.
 - A complete curriculum vitae.
 - The names of, and contact information for, four recommenders.
 - PDF copies of three papers, chapters, or monographs that best illustrate the applicant's suitability for a resident faculty position at SFI.
+
+Source and more details: [https://santafe.edu/about/jobs/resident-faculty-2025](https://santafe.edu/about/jobs/resident-faculty-2025)
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
