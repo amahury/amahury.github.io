@@ -6,7 +6,7 @@ tags: [review, book]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: In March 2024 Professor Luis M. Rocha shared with me a preprint that explored the unification of different perspectives in theoretical biology. Today, following the publication of that paper, I have taken on the task of pointing out some of the argumentative gaps in this ambitious narrative.
 alpez:
