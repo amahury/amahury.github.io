@@ -44,4 +44,6 @@ You may also email questions to Kyle Harper (kyleharper@ou.edu) or David Wolpert
 
 _U.S. citizenship is not a requirement, however, you must be legally able to work in the US. SFI will sponsor a J1 Visa for successful candidates. SFI is not able to sponsor a H1B Visa for candidates._
 
+Source and application: [https://santafe.edu/about/jobs/postdoc-comp-complexity](https://santafe.edu/about/jobs/postdoc-comp-complexity)
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
