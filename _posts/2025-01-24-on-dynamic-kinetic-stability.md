@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: Dynamic Kinetic Stability, a type of stability found in chemical systems that are not in equilibrium and are constantly fed by energy, has not received sufficient attention in the current literature related to the origin of life. Here I briefly review that concept, pointing out its potential and parallels with other ideas in the knowledge market.
 alpez:
