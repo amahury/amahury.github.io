@@ -7,7 +7,7 @@ comments: true
 toc: true 
 math: true
 pin: false
-mermaid: true
+mermaid: false
 description: For many years there has been a dispute over the computational nature of life at its origins. Moving beyond that confrontation, Sara Walker and Paul Davies offer us an information-first alternative. This happens to be one of my favorite papers, which is why I have enthusiastically written a review of it. 
 alpez:
   name: Amahury J. L. Diaz
