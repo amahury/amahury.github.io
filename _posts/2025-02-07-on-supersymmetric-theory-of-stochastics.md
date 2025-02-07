@@ -1,0 +1,41 @@
+---
+title: "On Supersymmetric Theory of Stochastics"
+date: 2025-02-07 00:00:00 -0400
+categories: [Opinion]
+tags: [review]
+comments: true
+toc: true 
+math: true
+pin: true
+mermaid: true
+description: Despite its profound implications for rooting chaos and criticality in spontaneous symmetry breaking, the Supersymmetric Theory of Stochastics remains largely underground, with many researchers unaware of its existence. Today we dedicate a blog in order to explain what STS is and what are its implications in complex systems science.
+alpez:
+  name: Amahury J. L. Diaz
+  twitter: amahury0
+---
+The interplay between chaos and order has fascinated scientists across disciplines. From the seemingly random avalanches in sandpiles to the intricate neural firings of a human brain, the underpinnings of these phenomena often point to deeper, unifying principles. [Supersymmetric Theory of Stochastics](https://www.taylorfrancis.com/chapters/edit/10.1201/b20232-17/supersymmetric-theory-stochastics-demystification-self-organized-criticality-igor-ovchinnikov) (STS)  emerges as one such framework, offering a lens through which [chaos](https://www.worldscientific.com/doi/abs/10.1142/S0217984919502877) and [self-organized criticality](https://www.mdpi.com/2073-8994/12/5/805) (SOC) can be understood. By tracing the historical trajectory of ideas leading to STS, this essay highlights its potential to bridge gaps in our comprehension of dynamical systems.
+
+### Historical Roots
+The concept of chaos, rooted in the works of [Poincaré](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9) and [Lorenz](https://en.wikipedia.org/wiki/Edward_Norton_Lorenz), was initially framed as the sensitivity of deterministic systems to initial conditions—a phenomenon encapsulated by the “[butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect)”. This deterministic chaos was characterized by positive [Lyapunov exponents](https://en.wikipedia.org/wiki/Lyapunov_exponent), [fractal attractors](https://www.dynamicmath.xyz/strange-attractors/), and [non-integrable flows](https://en.wikipedia.org/wiki/Integrable_system). Over time, [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory) evolved to encompass stochastic systems, where randomness intertwines with deterministic dynamics, further complicating the understanding of their behavior.
+
+Simultaneously, the study of critical phenomena revealed striking patterns of universality. SOC emerged as a paradigm for explaining [scale-invariant behavior](https://en.wikipedia.org/wiki/Scale_invariance) in systems poised at the [_edge of chaos_](https://en.wikipedia.org/wiki/Edge_of_chaos). Proposed by Bak, Tang, and Wiesenfeld, [SOC](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.381) described how systems like sandpiles self-tune to critical states, displaying [power-law correlations](https://en.wikipedia.org/wiki/Power_law). However, SOC lacked a rigorous theoretical foundation, prompting debates about its true nature and limits.
+
+STS builds on these intellectual legacies by introducing topological [supersymmetry](https://en.wikipedia.org/wiki/Supersymmetry) (TS) as a unifying principle. As demonstrated in Ovchinnikov’s groundbreaking [work](https://www.mdpi.com/1099-4300/18/4/108), all stochastic differential equations inherently possess TS, reflecting the invariance of phase-space proximity under smooth dynamics. Importantly, the [spontaneous breaking](https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking) of TS—induced by noise or system non-integrability—is identified as the hallmark of chaos in both deterministic and stochastic settings.
+
+STS redefines chaos as a low-symmetry, ordered phase of a dynamical system, contrasting with the conventional view of chaos as disorder. This reinterpretation is grounded in [field-theoretic principles](https://www.worldscientific.com/doi/abs/10.1142/S021798491650086X), where TS-breaking corresponds to the emergence of long-term dynamical memory, akin to the butterfly effect. Crucially, the breaking of TS explains the ubiquity of [1/f noise](https://en.wikipedia.org/wiki/Pink_noise) and power-law statistics in stochastic systems.
+
+### Implications 
+SOC’s phenomenological appeal stems from its ability to describe scale-invariant behavior without [fine-tuning](https://en.wikipedia.org/wiki/Fine-tuned_universe). Yet, its theoretical underpinnings remained elusive until STS offered a fresh perspective. STS [reveals](https://www.mdpi.com/2073-8994/12/5/805) that SOC-like behavior arises naturally in the noise-induced chaotic (N) phase, where TS-breaking dominates. This phase, characterized by the condensation of noise-induced instantons, occupies a full-dimensional region of the phase diagram, unlike traditional critical points confined to lower-dimensional boundaries.
+
+Thus, STS clarifies the origin of SOC’s dynamical long-range order ([DLRO](https://www.sciencedirect.com/topics/physics-and-astronomy/long-range-order)). Noise-induced tunneling processes, exemplified by neuronal avalanches and earthquakes, manifest as [instantons](https://en.wikipedia.org/wiki/Instanton), whose statistical properties are inherently [scale-free](https://en.wikipedia.org/wiki/Scale-free_network). Thus, STS eliminates the need for _ad hoc_ explanations, presenting SOC as a natural consequence of the interplay between noise and chaos.
+
+On the other hand, by generalizing concepts like Lyapunov exponents and [phase transitions](https://en.wikipedia.org/wiki/Phase_transition) to stochastic systems, STS provides a comprehensive framework for understanding dynamical systems across scales. In terms of the STS’s [phase diagram](https://www.mdpi.com/symmetry/symmetry-12-00805/article_deploy/html/images/symmetry-12-00805-g001.png), we delineate three primary regimes: the thermal (T) phase of unbroken TS, the noise-induced chaotic (N) phase, and the deterministic chaotic (C) phase. In this context, SOC corresponds to the N-phase, where long-range correlations emerge without the deterministic constraints of the C-phase.
+
+Furthermore, since STS is a coordinate- and approximation-free formalism, it is uniquely suited for describing systems with complex interactions and noise. Its framework allows for seamless integration of stochasticity and determinism, making it indispensable for analyzing systems with high dimensionality and intricate coupling. Its applicability ranges from neuromorphic hardware to astrophysical phenomena, providing insights into neural computations, galaxy formations, and even ecological dynamics. In this way, underscoring its versatility as a theoretical tool and its potential to foster interdisciplinary breakthroughs, STS bridges diverse fields.
+
+### Conclusion
+The implications of STS extend beyond the unification of chaos and SOC. By identifying TS-breaking as the essence of dynamical complexity, STS offers a principled approach to studying systems at the edge of chaos. This perspective invites new inquiries into topics like the emergence of consciousness in neurodynamics and the stability of ecosystems under stochastic influences. Future research could explore the connections between STS and other theoretical frameworks, such as quantum chaos and non-equilibrium statistical mechanics. Additionally, experimental validation of STS predictions in fields like neuroscience and geophysics would further solidify its status as a cornerstone of modern dynamical systems theory.
+
+As we can see, the Supersymmetric Theory of Stochastics transcends traditional boundaries between chaos and criticality, providing a robust framework for understanding complex systems. By rooting phenomena like SOC and DLRO in the fundamental principles of TS and its spontaneous breaking, STS not only demystifies the intricate dance of order and randomness but also paves the way for a deeper appreciation of the chaotic beauty inherent in nature. Despite its profound implications, this framework remains largely underground, with many researchers unaware of its existence. This lack of visibility underlines the need for greater dissemination and integration of STS into mainstream scientific discourse, where its transformative potential can be fully realized.
+
+![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
