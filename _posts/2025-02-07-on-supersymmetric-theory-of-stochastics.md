@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: true
 description: Despite its profound implications for rooting chaos and criticality in spontaneous symmetry breaking, the Supersymmetric Theory of Stochastics remains largely underground, with many researchers unaware of its existence. Today we dedicate a blog in order to explain what STS is and what are its implications in complex systems science.
 alpez:
