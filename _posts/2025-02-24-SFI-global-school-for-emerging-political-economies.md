@@ -1,7 +1,7 @@
 ---
 title: "SFI | The Complexity Global School for Emerging Political Economies"
 date: 2025-02-24 00:00:00 -0400
-categories: [Community]
+categories: [Events]
 tags: [summer]
 comments: false
 toc: true
