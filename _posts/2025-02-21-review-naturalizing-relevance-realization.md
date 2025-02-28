@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: false 
+pin: false
 mermaid: false
 description: Recently, dynamic trialectics has been proposed to show that life features such as cognition and agency are not algorithmic in nature. This perspective builds on classical notions of computation, leaving aside unconventional architectures for information processing. Here I explore a synthesis that potentially allows us to solve the problem of relevance (as proposed in the article) while keeping a computational narrative.
 alpez:
