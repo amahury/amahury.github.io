@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: A month ago Gonçalo Braga Fibra shared with me a paper on the naturalization of teleology, a concept that historically has unleashed thousands of philosophical discussions. Today I will review that paper, emphasizing its virtues and shortcomings.
 alpez:
