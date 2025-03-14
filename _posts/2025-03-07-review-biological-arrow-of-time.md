@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: In mid-February I attended the 11th International Conference on Guided Self-Organization (GSO 2025). There I got introduced to Mikhail Prokopenko's work on entangled information hierarchies and self-modeling dynamics. Today I will review his paper on these topics, pointing out some gaps I could find while reading it.
 alpez:
