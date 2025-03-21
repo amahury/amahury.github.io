@@ -6,7 +6,7 @@ tags: [review, trilogy]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: The first part of this trilogy is devoted to discussing the difference between model and simulation, one of the cornerstones for understanding relational biology. How true is it that Robert Rosen denied the possibility of simulating life? As we shall see, his insistence on the non-algorithmic nature of life should be understood as a call to rethink biological modeling, not as a categorical denial of simulation efforts. 
 alpez:
