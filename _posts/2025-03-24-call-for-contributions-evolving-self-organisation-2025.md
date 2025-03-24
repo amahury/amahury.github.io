@@ -7,7 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: 
+description: We invite authors to submit papers through the Gecco submission system focused on evolving self-organization. This workshop is part of the GECCO conference that will take place in Málaga, Spain from July 14 to July 18.
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
