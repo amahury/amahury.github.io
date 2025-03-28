@@ -6,7 +6,7 @@ tags: [review, trilogy]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: The second chapter of this trilogy is focused on understanding what many consider to be the canonical model of relational biology, (M,R)-systems. As we will see, this model lacks an adequate biological interpretation, so it is necessary to extend Rosen's ideas to the biochemical realm if we really want to understand what life is.
 alpez:
