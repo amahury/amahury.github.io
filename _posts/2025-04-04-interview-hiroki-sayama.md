@@ -1,0 +1,61 @@
+---
+title: "The Art of Making Things Evolve"
+date: 2025-04-04 00:00:00 -0400
+categories: [Interview]
+tags: [alife]
+comments: true
+toc: true 
+math: true
+pin: true
+mermaid: false
+description: For decades Hiroki Sayama has sought to achieve what a century ago would have been mere science fiction—creating life on our computers.
+image: /assets/img/2025-04-04/Sayama.jpg
+alpez:
+  name: Amahury J. L. Diaz
+  twitter: amahury0
+---
+![img-description](/assets/img/2025-04-04/Sayama.jpg)
+
+[Hiroki Sayama](https://cssociety.org/member/b3c6424e-7219-4389-945d-a0338496003b) is a complexity scientist whose work explores how simple rules give rise to [self-organization](https://en.wikipedia.org/wiki/Self-organization), [adaptability](https://en.wikipedia.org/wiki/Adaptability), and [emergent intelligence](https://en.wikipedia.org/wiki/Emergence) in both biological and artificial systems. As a distinguished professor at [Binghamton University](https://www.binghamton.edu/) and being director of the [Binghamton Center of Complex Systems](https://coco.binghamton.edu/) (Binghamton CoCo), he has spent his career investigating [self-replication](https://en.wikipedia.org/wiki/Self-replication), [artificial chemistries](https://en.wikipedia.org/wiki/Artificial_chemistry), and [swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence), always with an eye toward a central question in artificial life: **how can computational systems evolve in an open-ended way, generating continuous novelty without predefined goals?**
+
+This pursuit has deep roots in the pioneering tradition of [artificial life](https://en.wikipedia.org/wiki/Artificial_life) research. From John von Neumann’s [self-reproducing automata](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) to Christopher Langton’s [artificial organisms](https://en.wikipedia.org/wiki/Langton%27s_ant), scientists have sought to understand how life sustains an evolutionary process that never stagnates. Sayama’s work follows in this lineage, beginning with his early model of [_evoloops_](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9662d07e5550cd82268dedee87d21c5f431865a8), a [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) system that demonstrated spontaneous mutation and natural selection in a fully deterministic environment. Since then, he has continued to push the boundaries of artificial life, developing models that explore the conditions under which complexity can emerge and sustain itself.
+
+His research suggests that evolution, in both natural and artificial contexts, is not just a matter of selection and mutation but is deeply tied to the structure of the system itself. Whether through decentralized swarm interactions, self-replicating chemical patterns, or cellular automata, he seeks to uncover the fundamental principles that allow evolution to remain perpetually generative.
+
+I spoke with Sayama about the nature of open-ended evolution, the role of computation in modeling life-like processes, and the future of artificial evolutionary systems. 
+
+### The Legacy of Evoloops
+In the late 1990s, Sayama introduced [evoloops](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9662d07e5550cd82268dedee87d21c5f431865a8), a computational system based on self-replicating cellular automata. Unlike many early artificial life models, evoloops were not pre-programmed with a fixed set of possible forms. They could mutate, change, and evolve in unpredictable ways. Sayama revisited this model [recently](https://direct.mit.edu/artl/article/31/1/81/124368/Self-Reproduction-and-Evolution-in-Cellular), spurred by discussions at the "Distributed Ghost" workshop at [ALIFE 2023](https://2023.alife.org/) in Sapporo, Japan. **What had changed over the last 25 years?**
+
+_“The new insights were basically what happened in the last several years in the field,”_ Sayama explains, pointing to recent explorations of open-ended evolution in [continuous cellular automata](https://hegl.mathi.uni-heidelberg.de/continuous-cellular-automata/). Yet the core challenge remains: avoiding trivial self-replication, where structures reproduce without meaningful variation. Evoloops managed to overcome this by inheriting non-triviality from Langton's original [self-replicating loops](https://en.wikipedia.org/wiki/Langton%27s_loops)—a key element in maintaining a dynamic evolutionary process.
+
+One particularly striking insight from evoloops is their deterministic unpredictability. Even though they exist in a rule-based computational world, their evolutionary paths are not straightforwardly predictable. **What does this tell us about the nature of randomness and determinism in real evolutionary systems?**
+
+_“What we call ‘randomness’ is really the messiness in the details of individual components’ interactions that we choose to ignore and call ‘random,’”_ Sayama says. In his view, [randomness](https://en.wikipedia.org/wiki/Randomness) and [determinism](https://en.wikipedia.org/wiki/Determinism) do not interact—they are simply two different ways of describing the same underlying process. This perspective challenges the way researchers think about [stochasticity](https://en.wikipedia.org/wiki/Stochastic) in artificial evolutionary models: if we perceive something as random, it may simply be a limitation of our ability to track complex interactions.
+
+### Artificial Chemistries 
+Beyond [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton), Sayama has explored [artificial chemistries](https://en.wikipedia.org/wiki/Artificial_chemistry), computational systems that mimic the spontaneous emergence of complexity seen in natural biochemical evolution. His recent work on [Structural Cellular Hash Chemistry](https://arxiv.org/abs/2412.12790) (SCHC) introduces a novel approach to artificial chemistry by using [hash functions](https://en.wikipedia.org/wiki/Hash_function) to create an infinitely large possibility space. Unlike traditional models, which often struggle to balance [adaptability](https://en.wikipedia.org/wiki/Adaptability) with long-term [complexity growth](https://en.wikipedia.org/wiki/Complexity), SCHC allows for the spontaneous formation and replication of [higher-order entities](https://www.youtube.com/watch?v=3Bx4w_jNr50).
+
+“[Cardinality leap](https://pubmed.ncbi.nlm.nih.gov/31150289/),” a concept central to SCHC, describes a fundamental expansion of the evolutionary possibility space—where simple building blocks can combine into an exponentially larger number of complex structures. _“Even though we have only about a hundred basic elements in the universe, the number of possible molecules is essentially infinite,”_ Sayama explains. This vast possibility space is crucial for open-ended evolution because, without it, evolution would inevitably hit a ceiling.
+
+**Does this mean artificial chemistries must carefully balance adaptability with increasing complexity?** Sayama argues that the two are not opposing forces to be balanced—_“complexity growth can occur because of adaptation”_. In SCHC, larger spatial patterns had access to a greater possibility space, naturally allowing for more adaptive patterns to emerge. The implication is profound: if a system’s design space is sufficiently expansive, complexity growth is not something that needs to be engineered—it emerges naturally.
+
+### Open-ended Swarms
+Another of Sayama’s projects explores a surprising new frontier for artificial evolution: [swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence). Swarm systems—[decentralized collectives](https://en.wikipedia.org/wiki/Collective_behavior) of simple agents following local rules—have been extensively studied in [robotics](https://link.springer.com/chapter/10.1007/978-3-662-43505-2_71), [engineering](https://www.science.org/doi/abs/10.1126/science.1245842), and [biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001805). But Sayama believes they may hold the key to open-ended evolutionary dynamics.
+
+_“Swarms are distributed, robust, yet easily understandable and relatable models,”_ he says, noting that they share key properties with other artificial evolutionary models while offering additional advantages. Heterogeneous swarms, in particular, exhibit the cardinality leap property, meaning they can explore vast design spaces without requiring explicit fitness functions. In this way, swarms have the potential to evolve not toward a predefined goal but in an unconstrained, exploratory manner.
+
+However, there is a challenge. Traditional [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm) often converge toward optimal solutions rather than remaining open-ended. Swarm systems, despite their adaptability, are not immune to this tendency. _“Swarm systems also do tend to converge to optimal solutions,”_ Sayama acknowledges. _“One would need dynamic environments to prevent such convergence from happening, but this has been a rather difficult challenge.”_ In essence, the key to maintaining open-endedness is ensuring that the environment itself remains in flux—a difficult task, but one that may ultimately unlock the full potential of swarm-based evolution.
+
+### The Future of Open-Ended Evolution
+**What might be the most promising applications of open-ended evolution?** Many researchers have speculated that it could revolutionize [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [robotics](https://en.wikipedia.org/wiki/Robotics), or even [synthetic biology](https://en.wikipedia.org/wiki/Synthetic_biology). But Sayama has a different view.
+
+_“I don’t think so,”_ he says bluntly. Instead, he sees the most immediate application in content creation and human assistance—areas already being transformed by [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence). The difference, however, is that current generative models are trained on fixed datasets, limiting their creativity. A truly open-ended system would generate ideas, patterns, or even artistic expressions that are not derived from prior training data but emerge from the system’s own explorations. This is what [Peter Cariani](https://college.berklee.edu/people/peter-cariani) (and other bio-semioticians) have called “[adaptive semantics](https://petercariani.com/Cybernetics_files/CarianiPhDIntegrated1989.pdf)”.
+
+There is also the question of failure and extinction. In biological evolution, many species have gone extinct despite being highly adaptive. **Should artificial open-ended systems embrace failure as an essential component?** _“Yes, absolutely,”_ Sayama affirms. [Evolution](https://en.wikipedia.org/wiki/Evolution) is not just about generating novelty; it is also about pruning unfit variations, ensuring that adaptation remains a continuous, dynamic process.
+
+Yet, despite all the progress, Sayama believes that true open-ended evolution has not yet been accomplished in artificial life. _“The biggest unresolved question is that OEE has not been truly achieved yet,”_ he says. His work—whether through cellular automata, artificial chemistries, or swarm systems—represents an ongoing effort to inch closer to this goal.
+
+The search continues. Somewhere in the space of possible artificial life models, perhaps buried in an unexplored region of the computational evolutionary landscape enriched with adaptive semantics, lies a system that can sustain genuine [open-ended evolution](https://alife.org/encyclopedia/introduction/open-ended-evolution/). When we find it, it may not only teach us how to build evolving machines but may also reveal something fundamental about life itself.
+
+![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
