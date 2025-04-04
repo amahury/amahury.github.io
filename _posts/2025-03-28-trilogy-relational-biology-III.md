@@ -6,7 +6,7 @@ tags: [review, trilogy]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: The last chapter of the present trilogy turns out to be a miscellany of modern approaches to relational biology, all of them focused on capturing the temporal nature of living systems. As we shall see, although independent, all these results point to a general theory of biological organization. Rosen's dream.
 alpez:
