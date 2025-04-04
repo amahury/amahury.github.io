@@ -14,7 +14,6 @@ alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
 ---
-![img-description](/assets/img/2025-04-04/Sayama.jpg)
 
 [Hiroki Sayama](https://cssociety.org/member/b3c6424e-7219-4389-945d-a0338496003b) is a complexity scientist whose work explores how simple rules give rise to [self-organization](https://en.wikipedia.org/wiki/Self-organization), [adaptability](https://en.wikipedia.org/wiki/Adaptability), and [emergent intelligence](https://en.wikipedia.org/wiki/Emergence) in both biological and artificial systems. As a distinguished professor at [Binghamton University](https://www.binghamton.edu/) and being director of the [Binghamton Center of Complex Systems](https://coco.binghamton.edu/) (Binghamton CoCo), he has spent his career investigating [self-replication](https://en.wikipedia.org/wiki/Self-replication), [artificial chemistries](https://en.wikipedia.org/wiki/Artificial_chemistry), and [swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence), always with an eye toward a central question in artificial life: **how can computational systems evolve in an open-ended way, generating continuous novelty without predefined goals?**
 
