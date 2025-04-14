@@ -28,6 +28,6 @@ TUD strives to employ more women in academia and research. We therefore expressl
 
 Please submit your application (in English only) including motivation letter, CV with publication list, names and contact details of two references, copy of degree certificates, transcripts of grades (i.e. the official list of coursework including your grades) and proof of English language skills by April 30, 2025 (stamped arrival date of the university central mail service or the time stamp on the email server of TUD applies), preferably via the TUD SecureMail Portal https://securemail.tu-dresden.de by sending it as a pdf file quoting the reference number "ND 1/25" in the subject header to manuela.merkel@tu-dresden.de or to: TU Dresden, Professur für Netzwerk-Dynamik, Herrn Prof. Marc Timme, Helmholtzstr. 10, 01069 Dresden, Germany. Please submit copies only, as your application will not be returned to you. Expenses incurred in attending interviews cannot be reimbursed.
 
-Source and details 
+Source and details: [https://www.verw.tu-dresden.de/StellAus/stelle.asp?id=12089&lang=de](https://www.verw.tu-dresden.de/StellAus/stelle.asp?id=12089&lang=de)
 
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
