@@ -6,7 +6,7 @@ tags: [alife]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: For decades Hiroki Sayama has sought to achieve what a century ago would have been mere science fiction—creating life on our computers.
 image: /assets/img/2025-04-04/Sayama.jpg
