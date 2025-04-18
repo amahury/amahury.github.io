@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: false
+pin: true
 mermaid: false
 description: Commemorating the first mourning anniversary of Daniel Dennett, one of the most influential philosophers of our time, today I bring you a review of one of his most interesting essays, which despite its publication date is still relevant today given the fervent debate on whether or not it is possible to achieve a artificial general intelligence.
 alpez:
