@@ -58,4 +58,6 @@ References:
 
 [11] Cormier et al., Stoch. Process. Appl., 130(5):2553–2595, 2020.
 
+Source and more details: [https://adum.fr/as/ed/voirproposition.pl?langue=&matricule_prop=64039&site=sticuca](https://adum.fr/as/ed/voirproposition.pl?langue=&matricule_prop=64039&site=sticuca)
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
