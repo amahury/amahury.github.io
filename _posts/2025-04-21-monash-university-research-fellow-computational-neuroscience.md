@@ -1,5 +1,5 @@
 ---
-title: "Monash University | Posdoctoral Fellowship in Systems and Computational Neuroscience"
+title: "Monash University | Postdoctoral Fellowship in Systems and Computational Neuroscience"
 date: 2025-04-21 00:00:00 -0400
 categories: [Community]
 tags: [job, postdoc]
