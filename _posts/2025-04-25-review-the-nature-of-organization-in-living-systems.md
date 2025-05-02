@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: A year ago, Pedro Márquez-Zacarías gave a seminar at my university that inspired me to delve deeper into the ideas proposed by Robert Rosen. A month ago, he and his collaborators at the Santa Fe Institute have proposed a new relational biology framework to characterize how self-organizing living processes arise from more basic components. What are the main gaps in this model? Can we reconcile it with other relational models proposed in the last decade?
 alpez:
