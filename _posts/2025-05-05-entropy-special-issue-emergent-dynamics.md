@@ -1,6 +1,6 @@
 ---
 title: "Special Issue on Emergent Dynamics of Complex Systems: From Synchronization to Clustering"
-date: 2024-05-05 00:00:00 -0400
+date: 2025-05-05 00:00:00 -0400
 categories: [Events]
 tags: [issue]
 comments: false
