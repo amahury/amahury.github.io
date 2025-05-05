@@ -7,7 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: Entropy's guest editors invite us to submit contributions to his organized special issue about network information theory. Deadline for manuscript submissions is 31 October 2025.
+description: Prof. Yanlin Geng invite us to submit contributions to their organized special issue about network information theory. Deadline for manuscript submissions is 31 October 2025.
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
