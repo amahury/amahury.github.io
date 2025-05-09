@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: During NERCCS 2025 I had the opportunity to meet Dennis P. Waters, a transdisciplinary thinker whose PhD was done under the direction of Howard Pattee. With Dennis I had the opportunity to talk about biosemiotics, relational biology and ecological psychology, conversations from which I learned a lot. Today I am going to review one of his papers, published more than ten years ago but with very interesting ideas.
 alpez:
