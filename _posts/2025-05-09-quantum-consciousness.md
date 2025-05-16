@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: A recent study published in Nature shows that the two most accepted theories to explain consciousness turn out to be insufficient, leaving room for a potential general theory of consciousness. Among all the possible models of consciousness, today I will talk about quantum consciousness, a narrative that has received multiple criticisms and much skepticism, but has recently begun to be experimentally supported. 
 alpez:
