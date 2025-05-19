@@ -60,4 +60,6 @@ For any inquiries about the journal, please contact the editors in chief, e.g., 
 
 We look forward to your contributions to this exciting topic in the philosophy of artificial intelligence!
 
+Source: [https://journals.ub.uni-koeln.de/index.php/phai/Calls](https://journals.ub.uni-koeln.de/index.php/phai/Calls)
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
