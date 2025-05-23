@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: Since 2003, Marcello Barbieri has been suggesting that there are two distinct mechanisms of evolutionary change—evolution by natural selection, based on copying, and evolution by natural conventions, based on coding. Today I am going to briefly review his Code Biology, a branch of theoretical biology focused on the study of all codes of life, from the genetic code to the codes of culture.
 alpez:
