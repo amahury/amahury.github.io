@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: “How, therefore, we must ask, is it possible for us to distinguish the living from the lifeless if we can describe both conceptually by the motion of inorganic corpuscles?”—Karl Pearson (The Grammar of Science, 1892).
 alpez:
