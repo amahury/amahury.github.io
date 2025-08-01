@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true 
+pin: false 
 mermaid: false
 description: Reproduction, growth, development, homeostasis, metabolism, adaptation, evolution... we could go on and on and never find a complete list of characteristics that define life. However, another question is how to represent those properties using mathematical tools. Today we review an article by Muñuzuri and Pérez-Mercader whose objective is precisely that—to capture the key properties of life using a set of equations.
 alpez:
