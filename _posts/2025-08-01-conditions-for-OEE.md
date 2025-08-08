@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true 
+pin: false 
 mermaid: false
 description: While there is not full consensus on how to define the specifics of Open-Ended Evolution (OEE), at a high level it describes organisms that are continuously evolving and changing, rather than eventually reaching a state where nothing changes. The paper I am going to review today proposes a formal framework for discussing OEE. Surprisingly, the authors allude to undecidability and computational irreducibility, which reminds us of many other narratives we have discussed here. What's new under their lens? Is evolution a computational phenomenon?
 alpez:
