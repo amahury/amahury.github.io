@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true 
+pin: false 
 mermaid: false
 description: Computation is perhaps one of the most influential terms of the last century. However, I believe we must reformulate this concept in terms of its substrate, that is, what performs the computations. Today I am going to review a paper in that direction, which opens up avenues toward understanding chemical computation.
 alpez:
