@@ -6,7 +6,7 @@ tags: [essay]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: Today I am going to write an essay in which I will outline some of the major epistemological gaps surrounding the concept of computation, some of which, in my opinion, have been ignored or taken for granted by the scientific community. 
 alpez:
