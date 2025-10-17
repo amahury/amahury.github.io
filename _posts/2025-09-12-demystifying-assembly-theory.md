@@ -6,7 +6,7 @@ tags: [essay]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: “It doesn’t make any difference how beautiful your guess is, it doesn’t matter how smart you are who made the guess, or what his name is … If it disagrees with experiment, it’s wrong. That’s all there is to it.” —Richard Feynman.
 alpez:
