@@ -13,6 +13,8 @@ alpez:
   twitter: amahury0
 ---
 ### The Residency
+Application Deadline: November 2, 2025, at 11:59 PM Anywhere on Earth (AoE). Early application decisions will be made on a rolling basis before then.
+
 Researchers-in-Residence will explore mathematical approaches to AI alignment, in collaboration with established Mentors with proven track records of connecting deep mathematics with empirical machine learning.
 - Duration: 6 weeks, full-time, January 5–February 13, 2026
 - Location: The London Initiative for Safe AI (LISA), London, in person (with a remote option for exceptional applicants, for compatibility with existing academic roles)
