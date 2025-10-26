@@ -1,0 +1,14 @@
+{%- assign max_length = include.max_length | default: 200 -%}
+{%- capture description -%}
+  {%- if post.description -%}
+    {{- post.description -}}
+  {%- else -%}
+    {%- assign content = post.content -%}
+    {{- content | markdownify | strip_html -}}
+  {%- endif -%}
+{%- endcapture -%}
+{%- if include.json -%}
+  {{- description | strip_newlines | jsonify -}}
+{%- else -%}
+  {{- description | strip_newlines | truncate: max_length -}}
+{%- endif -%}
