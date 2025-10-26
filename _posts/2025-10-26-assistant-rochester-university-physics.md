@@ -7,7 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: The Department of Physics and Astronomy at the University of Rochester invites applications for a junior (tenure-track) professorship in theoretical physics.
+description: The Department of Physics and Astronomy at the University of Rochester invites applications for a junior (tenure-track) professorship in theoretical physics. If your specialization is in complex systems science, this is definitely for you!
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
