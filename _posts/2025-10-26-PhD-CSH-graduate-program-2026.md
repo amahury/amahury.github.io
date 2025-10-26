@@ -7,8 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: Ready to tackle the world’s most complex challenges?
-The Complexity Science Hub is looking for PhD candidates eager to apply large-scale data analysis, quantitative models, and complexity science to shed light on pressing global issues. 
+description: Ready to tackle the world most complex challenges? The Complexity Science Hub is looking for PhD candidates eager to apply large-scale data analysis, quantitative models, and complexity science to shed light on pressing global issues. 
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
