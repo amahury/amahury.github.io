@@ -7,7 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: PIBBSS and Iliad are announcing a Research Residency in applied mathematics and AI alignment. The Residency will run for 6 weeks, full-time. By default, it will take place in person in London. However, in exceptional cases, it will be possible to complete the Residency remotely in order to make the Residency compatible with an existing academic role. Resident stipends are $6,000–$15,000, depending on seniority. Competitive candidates are PhD or postdoctoral (or equally experienced) researchers in math, physics, or a related field. Our target outcome is for Researchers-in-Residence to continue research after the Residency by securing philanthropic funding to either start new research groups or to support other research projects.
+description: PIBBSS and Iliad are announcing a Research Residency in applied mathematics and AI alignment. The Residency will run for 6 weeks, full-time. Our target outcome is for Researchers-in-Residence to continue research after the Residency by securing philanthropic funding to either start new research groups or to support other research projects.
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
