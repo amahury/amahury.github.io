@@ -6,7 +6,7 @@ tags: [essay]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: Erwin Schrödinger's “What is Life?” is perhaps one of the most influential works in theoretical biology, but what if I told you that one of the key ideas discussed in it was nothing new?
 alpez:
