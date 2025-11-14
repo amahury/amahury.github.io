@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true 
+pin: false 
 mermaid: false
 description: Today I am going to review a synthesis written by a group of renowned researchers of artificial life, who have omitted a couple of important contributions that close the gap with what they have called "open questions" in the relationship between self-reference and life.
 alpez:
