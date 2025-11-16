@@ -29,10 +29,10 @@ Submit the following items online at this website to complete your application:
 - Publication list
 - Three reference letters
 
-### Further Info
-[http://physics-astronomy.jhu.edu/](http://physics-astronomy.jhu.edu/)
+### Contact
+Sean Carroll 
 
-Sean Carroll (seancarroll@gmail.com)
+seancarroll@gmail.com
 
 410-516-7346
 
