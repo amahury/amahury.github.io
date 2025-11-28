@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true 
+pin: false 
 mermaid: false
 description: Shannon's information theory does not consider meaning; it is a quantitative theory focused on the probability and transmission of messages as signals, completely divorcing information from its semantic content. The paper I am reviewing today proposes a way, based on Shannon's approach, to measure the semantic aspects of systems.
 alpez:
