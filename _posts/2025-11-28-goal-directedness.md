@@ -6,7 +6,7 @@ tags: [review]
 comments: true
 toc: true 
 math: true
-pin: true 
+pin: false 
 mermaid: false
 description: Goal orientation is perhaps one of the most intriguing corollaries of living systems. Can we naturalize a concept that for centuries has been treated as something beyond reductionist explanations? Today I review an article that attempts to do so using the language of dynamical systems theory.
 alpez:
