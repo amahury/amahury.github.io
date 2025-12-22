@@ -1,5 +1,5 @@
 ---
-title: "CSH | Summer Internship Program 2026"
+title: "Complexity Science Hub | Summer Internship Program 2026"
 date: 2025-12-22 00:00:00 -0400
 categories: [Events]
 tags: [internship, summer]
