@@ -1,5 +1,5 @@
 ---
-title: "CBeRa | PhD Fellowship in Complex Nerworks and Systems"
+title: "CBeRa | PhD Fellowship in Complex Networks and Systems"
 date: 2026-01-05 00:00:00 -0400
 categories: [Community]
 tags: [job, PhD]
