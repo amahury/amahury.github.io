@@ -6,7 +6,7 @@ tags: [didactic, essay]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: “If you wish to make an apple pie from scratch, you must first invent the universe.” —Carl Sagan.
 alpez:
