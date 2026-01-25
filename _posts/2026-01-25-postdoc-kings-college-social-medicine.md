@@ -1,6 +1,6 @@
 ---
 title: "King’s College London | Two Postdoctoral Fellowships on Social Medicine"
-date: 2026-01-26 00:00:00 -0400
+date: 2026-01-25 00:00:00 -0400
 categories: [Community]
 tags: [job, postdoc]
 comments: false
