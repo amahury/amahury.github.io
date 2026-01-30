@@ -1,5 +1,5 @@
 ---
-title: "Call for Satellites | CCS 2026"
+title: "CCS 2026 | Call for Satellites"
 date: 2026-01-30 00:00:00 +0800
 categories: [Events]
 tags: [conference]
