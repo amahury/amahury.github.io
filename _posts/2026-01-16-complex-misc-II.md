@@ -6,7 +6,7 @@ tags: [didactic, essay]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: “The head of Matter did that which the energy-beings could do no longer and it wept for all humanity, and for the fragile beauty of the bodies they had once given up, a trillion years ago.” —Isaac Asimov.
 alpez:
