@@ -1,6 +1,6 @@
 ---
 title: "NetSci Satellite: NetBioMed 2026"
-date: 2025-02-15 00:00:00 -0400
+date: 2025-02-22 00:00:00 -0400
 categories: [Events]
 tags: [conference]
 comments: false
