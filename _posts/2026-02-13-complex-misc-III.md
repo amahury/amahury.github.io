@@ -6,7 +6,7 @@ tags: [didactic, essay]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: “We see with the eyes, but we see with the brain as well, and seeing with the brain is often called imagination.” —Oliver Sacks.
 alpez:
