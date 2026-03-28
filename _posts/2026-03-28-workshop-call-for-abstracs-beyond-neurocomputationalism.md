@@ -1,5 +1,5 @@
 ---
-title: "Call for Abstracs | Beyond Neuro-computationalism: the philosophy and science of biological brains"
+title: "Call For Abstracts | Beyond Neuro-computationalism: the philosophy and science of biological brains"
 date: 2026-03-28 00:00:00 -0400
 categories: [Events]
 tags: [workshop]
