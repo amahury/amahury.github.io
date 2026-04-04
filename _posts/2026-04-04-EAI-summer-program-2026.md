@@ -1,5 +1,5 @@
 ---
-title: "Barcelona School of Economics | Summer School in Complexity and Emergence in Economic and Social Systems"
+title: "European Astrobiology Institute | Summer School in Biosignatures and the Search For Life on Mars"
 date: 2026-04-04 00:00:00 -0400
 categories: [Events]
 tags: [school, summer]
