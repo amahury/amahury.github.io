@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: Since Aristotle, we have attempted to avoid self-causation, giving rise to ontic dualisms, Gödel's incompleteness theorems, and pancomputationalism. In this article, Francisco Varela develops an alternative axiomatic paradigm whose arithmetic and algebra allow us to address self-reference. The implications and interpretation of employing such an alternative mathematical foundation are remarkable, and that is why I will examine it today.
 alpez:
