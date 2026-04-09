@@ -37,16 +37,14 @@ The formal core of the paper is built from Shannon information theory applied to
 Their framework depends on a discrete [stochastic process](https://en.wikipedia.org/wiki/Stochastic_process) where the next state of the system can depend on both the current system and environmental states. The central quantity is the [mutual information](https://en.wikipedia.org/wiki/Mutual_information) $I\left(S_n, E_n; S_{n+1}\right)$, which measures how much the joint past of a system and its environment helps predict the system’s future. Using the [chain rule for mutual information](https://www2.isye.gatech.edu/~yxie77/ece587/Lecture3.pdf), the authors decompose this in two complementary ways: 
 
 $$
-I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; S_n\right) + I\left(S_{n+1}; E_n | S_n\right) \\
+I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; S_n\right) + I\left(S_{n+1}; E_n | S_n\right)
 $$
 
 and 
 
 $$
-I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; E_n\right) + I\left(S_{n+1}; S_n | E_n\right) \\
+I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; E_n\right) + I\left(S_{n+1}; S_n | E_n\right)
 $$
-
-
 
 These two decompositions correspond to two ways of assigning explanatory weight. One privileges the system’s own persistence, the other privileges environmental determination. From these expressions come the first individuality measures. The quantity $A^* = I\left(S_{n+1}; S_n\right)$ is called _organismal individuality_ (or endogenous determination), while $A = I\left(S_{n+1}; S_n | E_n\right)$ is called _colonial individuality_, and $nC = I\left(S_{n+1}; E_n | S_n\right)$ captures _environmental determination_.
 
