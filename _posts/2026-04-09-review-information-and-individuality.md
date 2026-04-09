@@ -36,10 +36,17 @@ The formal core of the paper is built from Shannon information theory applied to
 
 Their framework depends on a discrete [stochastic process](https://en.wikipedia.org/wiki/Stochastic_process) where the next state of the system can depend on both the current system and environmental states. The central quantity is the [mutual information](https://en.wikipedia.org/wiki/Mutual_information) $I\left(S_n, E_n; S_{n+1}\right)$, which measures how much the joint past of a system and its environment helps predict the system’s future. Using the [chain rule for mutual information](https://www2.isye.gatech.edu/~yxie77/ece587/Lecture3.pdf), the authors decompose this in two complementary ways: 
 
-1. \$$ I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; S_n\right) + I\left(S_{n+1}; E_n | S_n\right) $$
-2. \$$ I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; E_n\right) + I\left(S_{n+1}; S_n | E_n\right) $$
+$$
+I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; S_n\right) + I\left(S_{n+1}; E_n | S_n\right)
+$$
 
-These two decompositions correspond to two ways of assigning explanatory weight. One privileges the system’s own persistence, the other privileges environmental determination. From these expressions come the first individuality measures. The quantity $$A^* = I\left(S_{n+1}; S_n\right)$$ is called _organismal individuality_ (or endogenous determination), while $$A = I\left(S_{n+1}; S_n | E_n\right)$$ is called _colonial individuality_, and $$nC = I\left(S_{n+1}; E_n | S_n\right)$$ captures _environmental determination_.
+and
+
+$$
+$I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; E_n\right) + I\left(S_{n+1}; S_n | E_n\right)$.
+$$
+
+These two decompositions correspond to two ways of assigning explanatory weight. One privileges the system’s own persistence, the other privileges environmental determination. From these expressions come the first individuality measures. The quantity $A^* = I\left(S_{n+1}; S_n\right)$ is called _organismal individuality_ (or endogenous determination), while $A = I\left(S_{n+1}; S_n \mid E_n\right)$ is called _colonial individuality_, and $nC = I\left(S_{n+1}; E_n \mid S_n\right)$ captures _environmental determination_.
 
 To deepen the interpretation, the paper then appeals to [partial information decomposition](https://en.wikipedia.org/wiki/Partial_information_decomposition) (PID). Although the authors do not commit to one contested formal version of PID, they use it conceptually to separate the information in $S_{n+1}$ into four components: information uniquely supplied by the system, information uniquely supplied by the environment, information shared by both, and synergistic information that only appears through their joint interaction. In this reading, organismal individuality $A^*$ combines shared information with the unique contribution of the system, while colonial individuality $A$ combines synergistic information with that same unique system contribution. This leads to an elegant qualitative contrast. Organismal individuality corresponds to systems that carry significant internal memory while also sharing adaptive information with their environment. Colonial individuality, by contrast, characterizes systems whose persistence depends more strongly on ongoing interactive regulation with the environment than on private inherited memory. Environmental determination measures the degree to which the environment itself continues to shape the system’s future, while environmental coding captures the difference between organismal and colonial forms by asking how much environmental information is innately encoded versus continually negotiated.
 
