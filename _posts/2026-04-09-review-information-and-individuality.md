@@ -43,7 +43,7 @@ $$
 and
 
 $$
-$I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; E_n\right) + I\left(S_{n+1}; S_n | E_n\right)$.
+I\left(S_n, E_n; S_{n+1}\right) = I\left(S_{n+1}; E_n\right) + I\left(S_{n+1}; S_n | E_n\right).
 $$
 
 These two decompositions correspond to two ways of assigning explanatory weight. One privileges the system’s own persistence, the other privileges environmental determination. From these expressions come the first individuality measures. The quantity $A^* = I\left(S_{n+1}; S_n\right)$ is called _organismal individuality_ (or endogenous determination), while $A = I\left(S_{n+1}; S_n \mid E_n\right)$ is called _colonial individuality_, and $nC = I\left(S_{n+1}; E_n \mid S_n\right)$ captures _environmental determination_.
