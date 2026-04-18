@@ -1,5 +1,5 @@
 ---
-title: "IISER Thiruvananthapuram | PhD Position in Dynamics of Adaptive Networks"
+title: "IISER Thiruvananthapuram | Postdoc Fellowship in Dynamics of Adaptive Networks"
 date: 2026-04-18 00:00:00 -0400
 categories: [Community]
 tags: [job, PhD]
