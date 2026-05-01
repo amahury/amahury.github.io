@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: Krakauer et al. challenge the traditional view of biological individuals, arguing that individuality is instead a process of "temporal integrity" that measures how an aggregate propagates information from its past into its future. What are the limitations of this approach? Is it possible to characterize individuals without taking semantics and pragmatics into account? In this review, I will address this and other important questions regarding the characterization of life using only syntactic information.
 alpez:
