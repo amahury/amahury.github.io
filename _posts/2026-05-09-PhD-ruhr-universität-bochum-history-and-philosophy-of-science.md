@@ -2,7 +2,7 @@
 title: "Ruhr-Universität Bochum | Two PhD positions in History and Philosophy of Science"
 date: 2026-05-09 00:00:00 -0400
 categories: [Community]
-tags: [job, postdoc]
+tags: [job, PhD]
 comments: false
 toc: true
 math: false
