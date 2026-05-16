@@ -1,5 +1,5 @@
 ---
-title: "Foundations and Frontiers of Information Theory—Dedicated to Professor H. Vincent Poor on the Occasion of His 75th Birthday"
+title: "Special Issue: Foundations and Frontiers of Information Theory—Dedicated to Professor H. Vincent Poor on the Occasion of His 75th Birthday"
 date: 2026-05-16 00:00:00 -0400
 categories: [Events]
 tags: [issue]
