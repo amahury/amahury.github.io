@@ -2,7 +2,7 @@
 title: "Machine Metaphors in Biology I: Origins and Success"
 date: 2026-05-28 00:00:00 -0400
 categories: [Opinion]
-tags: [essay]
+tags: [essay, trilogy]
 comments: true
 toc: true 
 math: true
