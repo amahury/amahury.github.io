@@ -6,7 +6,7 @@ tags: [review, paper]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: What is biological agency? Can we reproduce it in a Petri dish or a digital simulation? Newman and collaborators challenge the strictly deterministic view of evolutionary biology, arguing that agency is an intrinsic capacity of life that undergoes qualitative transformations (rather than mere scaling) during the transition from unicellular to multicellular organisms. What are the limitations of their ideas? Is it possible to truly differentiate authentic agency from evolved, teleonomic biological programs? In this review, I will address these and other important questions regarding the emergence of multicellular autonomy and the boundaries of biological determinism.
 alpez:
