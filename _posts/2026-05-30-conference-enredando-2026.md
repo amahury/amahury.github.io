@@ -7,7 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: 
+description: ENREDANDO 2026 (the Escuela Iberoamericana de Redes y Sistemas Complejos / Ibero-American School of Networks and Complex Systems) is scheduled to take place from July 26 to July 31, 2026, at the Universidade Federal de Viçosa in Minas Gerais, Brazil.
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
