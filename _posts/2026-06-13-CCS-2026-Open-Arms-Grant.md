@@ -1,5 +1,5 @@
 ---
-title: "2026 Conference on Complex Systems | Open Arms Grant"
+title: "CCS 2026 | Open Arms Grant"
 date: 2026-06-13 00:00:00 -0400
 categories: [Community]
 tags: [grant, funding]
