@@ -1,6 +1,6 @@
 ---
 title: "Maastricht University | Assistant Professor on Network Science"
-date: 2026-02-27 00:00:00 -0400
+date: 2026-06-27 00:00:00 -0400
 categories: [Community]
 tags: [job, assistant]
 comments: false
