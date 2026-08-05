@@ -1,5 +1,5 @@
 ---
-title: "Machine Metaphors in Biology II: Origins and Success"
+title: "Machine Metaphors in Biology II: Limits and Challenges"
 date: 2026-08-05 00:00:00 -0400
 categories: [Opinion]
 tags: [essay, trilogy]
