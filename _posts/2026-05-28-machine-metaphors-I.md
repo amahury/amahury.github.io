@@ -6,7 +6,7 @@ tags: [essay, trilogy]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: “You insist that there is something that a machine can't do. If you will tell me precisely what it is that a machine cannot do, then I can always make a machine which will do just that.” —John von Neumann.
 alpez:
