@@ -18,7 +18,7 @@ Building on the success of the previous edition, this year’s minicourse will f
 
 The minicourse is aimed at advanced undergraduate and early graduate students in physics or in biology with a strong quantitative background, but other interested students are also welcome to apply. No prior expertise in biological modeling is required. Participants are welcome to submit an abstract for poster presentation. We also encourage students who participated in last year’s program to apply again, as new problems, topics and groups offer new learning opportunities.
 
-This is an initiative promoted by the Physics of Life South American Network, PoLSAN. More details on PoLSAN can be found here: [www.ictp-saifr.org/polsan](www.ictp-saifr.org/polsan)
+This is an initiative promoted by the Physics of Life South American Network, PoLSAN. More details on PoLSAN can be found here: www.ictp-saifr.org/polsan
 
 Previous edition: [https://www.ictp-saifr.org/mfbp2025/](https://www.ictp-saifr.org/mfbp2025/)
 
