@@ -1,6 +1,6 @@
 ---
 title: "CCS 2026 | Womplexity Meets Northeast: Connecting Communities in Complex Systems Science"
-date: 2026-07-26 00:00:00 -0400
+date: 2026-08-28 00:00:00 -0400
 categories: [Events]
 tags: [conference]
 comments: false
@@ -31,8 +31,8 @@ A dedicated segment introduces the activities, projects, and plans of the CSS U.
 Are you a woman working on complex systems and interested in sharing your research with a supportive community of women scientists? We welcome contributed talks from researchers at every career stage.
 - Topics include: computational social science, network science, ecological modeling, statistical physics, and other interdisciplinary applications of complex systems.
 - Talk format: 10 minutes presentation + 3 minutes Q&A
-- Submission deadline: August 15, 2026, 11:59 PM (America/New_York)
-- Author notification: September 1, 2026, 11:59 PM (America/New_York)
+- Submission deadline: September 11, 2026, 11:59 PM (America/New_York)
+- Author notification: September 18, 2026, 11:59 PM (America/New_York)
 
 Source and submission: [https://css-usne.github.io/womplexity-meets-northeast/](https://css-usne.github.io/womplexity-meets-northeast/)
 
