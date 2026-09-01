@@ -1,13 +1,13 @@
 ---
 title: "15th International Conference on Complex Networks and their Applications"
-date: 2026-08-23 00:00:00 -0400
+date: 2026-09-01 00:00:00 -0400
 categories: [Events]
 tags: [conference]
 comments: false
 toc: true
 math: false
 mermaid: false
-description: Join us in Granada, Spain to celebrate the 15th edition of Complex Networks 2026! Submission deadline is September 2, 2026.
+description: Join us in Granada, Spain to celebrate the 15th edition of Complex Networks 2026! Submission deadline has been extended to September 13, 2026.
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
@@ -15,7 +15,7 @@ alpez:
 The International Conference on Complex Networks and their Applications aims at bringing together researchers from different scientific communities working on areas related to complex networks. Two types of contributions are welcome: theoretical developments arising from practical problems, and case studies where methodologies are applied. Both contributions are aimed at stimulating the interaction between theoreticians and practitioners.
 
 ### Important Dates
-- Submission deadline: September 02, 2026 
+- Submission deadline (EXTENDED): September 13, 2026 
 - Acceptance Notification: October 01, 2026
 - Camera Ready: October 08, 2026
 - Registration: October 15, 2026
