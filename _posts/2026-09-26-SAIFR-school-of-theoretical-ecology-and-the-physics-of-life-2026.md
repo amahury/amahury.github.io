@@ -7,7 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: The International Centre for Theoretical Physics together with the South American Institute for Fundamental Research are organizing the Hands-on Minicourse on Fundamentals of Biological Physics at São Paulo, Brazil.
+description: The International Centre for Theoretical Physics together with the South American Institute for Fundamental Research are organizing the School of Theoretical Ecology and the Physics of Life  (Upscaling Biodiversity in a Changing World) at São Paulo, Brazil.
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
