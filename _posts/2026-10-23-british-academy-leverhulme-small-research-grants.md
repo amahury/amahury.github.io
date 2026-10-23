@@ -59,6 +59,6 @@ Grants are not intended to support interchange between UK and overseas scholars 
 ### Contact 
 Personalised support from our Research Funding team is still available via grants@thebritishacademy.ac.uk.
 
-Application and more details: [thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/](thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/)
+Application and more details: [https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/)
 
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
