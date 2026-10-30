@@ -6,7 +6,7 @@ tags: [essay, trilogy]
 comments: true
 toc: true 
 math: true
-pin: true
+pin: false
 mermaid: false
 description: “By axiomatizing automata in this manner, one has thrown half of the problem out the window, and it may be the more important half. One has resigned oneself not to explain how these parts are made up of real things, specifically, how these parts are made up of actual elementary particles, or even of higher chemical molecules.” —John von Neumann.
 alpez:
