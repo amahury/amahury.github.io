@@ -55,6 +55,6 @@ Applications Close: Sunday 22 November at 11:59 p.m. (AEST)
 
 For specific role enquires, please contact Pierrick Bourrat, Senior Lecturer at pierrick.bourrat@mq.edu.au
 
-Source and more details: [https://mcgill.wd3.myworkdayjobs.com/en-US/McGill_Careers/job/Rutherford-Physics/Assistant-Professor---Theoretical-Biophysics_JR0000080340](https://mcgill.wd3.myworkdayjobs.com/en-US/McGill_Careers/job/Rutherford-Physics/Assistant-Professor---Theoretical-Biophysics_JR0000080340)
+Source and more details: [https://mq.wd3.myworkdayjobs.com/CareersatMQ/job/Wallumattagal-Campus-Macquarie-University/ARC-Postdoctoral-Research-Fellow--Philosophy-of-Biology-_R000024560](https://mq.wd3.myworkdayjobs.com/CareersatMQ/job/Wallumattagal-Campus-Macquarie-University/ARC-Postdoctoral-Research-Fellow--Philosophy-of-Biology-_R000024560)
 
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
