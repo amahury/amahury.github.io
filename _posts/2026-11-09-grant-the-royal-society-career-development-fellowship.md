@@ -7,7 +7,7 @@ comments: false
 toc: true
 math: false
 mermaid: false
-description: This scheme provides the most talented early career scientists from underrepresented groups in STEM with research funding and high-quality training opportunities to build a strong base for a successful research career.
+description: This funding scheme provides the most talented early career scientists from underrepresented groups in STEM with research funding and high-quality training opportunities to build a strong base for a successful research career.
 alpez:
   name: Amahury J. L. Diaz
   twitter: amahury0
@@ -64,6 +64,6 @@ Read the scheme notes for further information on eligibility. Please ensure that
 ### Contact 
 If you have further questions regarding the scheme, please see the FAQs, contact the Grants team on CDF@royalsociety.org or visit our contact us page.
 
-Application and more details: [https://royalsociety.org/grants/career-development-fellowship/](https://royalsociety.org/grants/career-development-fellowship/)
+Application and more details about the grant: [https://royalsociety.org/grants/career-development-fellowship/](https://royalsociety.org/grants/career-development-fellowship/)
 
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
