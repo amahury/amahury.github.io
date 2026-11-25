@@ -289,4 +289,7 @@ Perhaps calling such systems “machines” will eventually stretch the metaphor
 
 Neither side is sufficient. That is why the next step cannot simply be another critique. We now need a synthesis. A theory capable of representing functional closure. A physical account of constraints that explains how causes can be produced by the systems in which they operate. A framework that distinguishes externally programmed computation from systems that construct and revise their own measurement–control organization. After tracing the success and limits of machine metaphors, a new question naturally arises: *what must machines become before the distinction stops being useful?* That is where the final part of this trilogy must begin.
 
+### Acknowledgements
+Thanks to [Chenyu Bu](https://chenyu-bu.github.io/) for her valuable comments and discussions that helped shape this post.
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
