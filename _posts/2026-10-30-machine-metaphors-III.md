@@ -239,4 +239,7 @@ And if one day we construct an artificial system capable of producing and repair
 
 The future of machine metaphors in biology therefore lies neither in abolishing machines nor in declaring that everything is one. It lies in making the relation reciprocal, in transforming metaphors into models, models into experiments, experiments into realizations, and realizations back into a new understanding of what life (and perhaps one day a machine) can be, always maintaining a bioethical perspective and reflecting on the social repercussions that our scientific developments could have. 
 
+### Acknowledgements
+Thanks to [Chenyu Bu](https://chenyu-bu.github.io/) and [Nate Gaylinn](https://thinkingwithnate.wordpress.com/) for their valuable comments and discussions that helped shape this post.
+
 ![Desktop View](/assets/img/fix/complexity-cat-newsletter.png){: .normal width="1200" height="630" }
